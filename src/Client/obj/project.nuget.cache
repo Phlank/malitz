@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+fZsTeXT5AhtSLxykkE7jHGQZJ11Rw4iPqLSQxVL0nJvCYo2h4Eo2PFvcgn+mbD86Lg6uH/ePOkkhSL4X1FfLw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ledbe\\Documents\\repos\\quickstart\\src\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ledbe\\.nuget\\packages\\identitymodel\\4.5.0\\identitymodel.4.5.0.nupkg.sha512",
+    "C:\\Users\\ledbe\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\ledbe\\.nuget\\packages\\system.text.encodings.web\\5.0.0\\system.text.encodings.web.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
