@@ -39,3 +39,4 @@ C:\Users\ledbe\Documents\repos\quickstart\src\IdentityServer\obj\Debug\netcoreap
 C:\Users\ledbe\Documents\repos\quickstart\src\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.dll
 C:\Users\ledbe\Documents\repos\quickstart\src\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.pdb
 C:\Users\ledbe\Documents\repos\quickstart\src\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.genruntimeconfig.cache
+C:\Users\ledbe\Documents\repos\quickstart\src\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll

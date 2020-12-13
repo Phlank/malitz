@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "kPbuo4SoK03D0m2WgdwWxzwTC0RlAGRCCUMbqQXbuu+JfJOyombsh9iiL93skK0AMwUlPBpqlzIeqJjCfaG7UA==",
+  "dgSpecHash": "Fh2OrXSXeRlDqtAXXCowP0KSf64LVnzI0tZXkR/vWBf8HTQiphNnNTxY5pVe+Ro1I63CLGMGAjB8zZ/+QwLijA==",
   "success": true,
   "projectFilePath": "C:\\Users\\ledbe\\Documents\\repos\\quickstart\\src\\IdentityServer\\IdentityServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ledbe\\.nuget\\packages\\identitymodel\\4.3.0\\identitymodel.4.3.0.nupkg.sha512",
     "C:\\Users\\ledbe\\.nuget\\packages\\identityserver4\\4.0.0\\identityserver4.4.0.0.nupkg.sha512",
     "C:\\Users\\ledbe\\.nuget\\packages\\identityserver4.storage\\4.0.0\\identityserver4.storage.4.0.0.nupkg.sha512",
+    "C:\\Users\\ledbe\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.10\\microsoft.aspnetcore.authentication.jwtbearer.3.1.10.nupkg.sha512",
     "C:\\Users\\ledbe\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\3.1.0\\microsoft.aspnetcore.authentication.openidconnect.3.1.0.nupkg.sha512",
     "C:\\Users\\ledbe\\.nuget\\packages\\microsoft.aspnetcore.hosting.abstractions\\2.0.0\\microsoft.aspnetcore.hosting.abstractions.2.0.0.nupkg.sha512",
     "C:\\Users\\ledbe\\.nuget\\packages\\microsoft.aspnetcore.hosting.server.abstractions\\2.0.0\\microsoft.aspnetcore.hosting.server.abstractions.2.0.0.nupkg.sha512",
